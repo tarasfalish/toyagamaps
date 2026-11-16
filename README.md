@@ -36,7 +36,7 @@ Proyek ini menggunakan HTML, CSS, dan JavaScript tanpa framework. Pada berkas ya
 
 ## Petunjuk cara menjalankan proyek
 
-Buka tautan https://drinkup.developer.living/en#how-it-works .
+Buka tautan https://jojoo-hub.github.io/toyagamaps/
 
 ## Cara menggunakan website
 
